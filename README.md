@@ -14,7 +14,7 @@ krithick-j-attendance-analysis/
 ├── cleaned_data.csv     # Cleaned attendance data (output)
 ├── data.csv             # Raw attendance data (input)
 ├── main.py              # Python script that performs the cleaning and analysis
-└── charts/              # Folder containing Tableau Public charts (if applicable)
+└── charts/              # Folder containing Tableau Public charts
 ```
 
 ### Files
